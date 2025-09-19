@@ -197,8 +197,7 @@ box-shadow: none;
         transform: translateY(0%);
     }
 }
-@media only screen and (min-width: 600px) {
-  .example {background:#9D00FF ;}
-}
+
+
 
 
